@@ -78,7 +78,25 @@ const App = () => {
     //         <Route path='*' element={<Not />} /> 
     //     </Routes>
     // </BrowserRouter>
-/*  src 폴더에 pages 폴더 만들어서 페이지 컴포넌트들 만들기 */
+
+
+
+
+/* 다 하고 github에 올리기
+    터미널에서 
+    1) 'git add .'  하고
+    2) 'git status' 로 변경들 확인
+    3) 'git commit -m "페이지 만들기" 
+    4) 'git push -u origin main' 하고
+    5) 깃허브에서 올라간거 확인하고
+    6) 브런치 만들기 (05-페이지만들기 )
+    
+
+다 하면  src 폴더에 pages 폴더 만들어서 페이지 컴포넌트들 만들기
+
+components 폴더 생성
+*/
+
 
 );
 }
